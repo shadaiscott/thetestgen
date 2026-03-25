@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="plain_wordmark" data-name="plain wordmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137.18 25.47">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        fill: #000b35;
+        font-family: MoonWalk, 'Moon Walk';
+        font-size: 21px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 18)"><tspan x="0" y="0">Ka</tspan><tspan class="cls-2" x="31.75" y="0">se</tspan><tspan class="cls-1" x="61.09" y="0">S</tspan><tspan class="cls-4" x="75.12" y="0">y</tspan><tspan x="91.03" y="0">nth</tspan></text>
+</svg>
